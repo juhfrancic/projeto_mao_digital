@@ -1,4 +1,5 @@
-#Projeto mão digital#
+#Projeto mão digital
+
 -Interação entre mãos e leds utilizando Python e Arduino
 
 Descrição do Projeto:
